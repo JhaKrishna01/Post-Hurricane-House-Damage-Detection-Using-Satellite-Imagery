@@ -93,8 +93,7 @@ Deployment as a web-based disaster management tool
 👥 Author
 
 Krishna Jha
-B.Tech | VIT-AP University
-CSE (Spec in Artificial Intelligence and Machine Learning)
+B.Tech | VIT-AP University |  CSE (Spec in Artificial Intelligence and Machine Learning)
 
 🪪 License
 
